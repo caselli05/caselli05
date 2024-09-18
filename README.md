@@ -56,8 +56,3 @@
   </a> 
 </p>
 
-##
-
-<p align="center">My stats:</p>
-![](https://github-readme-stats.vercel.app/api?username=caselli05&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caselli05&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
