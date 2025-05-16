@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Caselli</h1>
 <h3 align="center">A passionate undergraduating in Computer Science</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on CJR<br>🌱 I’m currently learning Data Science and Machine Learning 
+🔭 I’m currently working on CJR<br>
+🌱 I’m currently learning Data Science and Machine Learning 
 
 
 ## 🌐 Socials:
