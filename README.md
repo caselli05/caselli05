@@ -2,7 +2,7 @@
 <h3 align="center">A passionate undergraduating in Computer Science</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on CJR<br>
+🔭 I’m currently working on <a href="https://www.cjr.org.br/">CJR</a>
 🌱 I’m currently learning Data Science and Machine Learning 
 
 
